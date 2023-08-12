@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\bin\Debug\Aula3_DS1.exe.config
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\bin\Debug\Aula3_DS1.exe
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\bin\Debug\Aula3_DS1.pdb
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.Form1.resources
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.Properties.Resources.resources
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.exe
+C:\Users\aluno\source\repos\Aula3_DS1\Aula3_DS1\obj\Debug\Aula3_DS1.pdb
