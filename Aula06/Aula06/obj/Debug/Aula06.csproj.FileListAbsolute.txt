@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\Aula06\Aula06\bin\Debug\Aula06.exe.config
+C:\Users\aluno\source\repos\Aula06\Aula06\bin\Debug\Aula06.exe
+C:\Users\aluno\source\repos\Aula06\Aula06\bin\Debug\Aula06.pdb
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.Form1.resources
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.Properties.Resources.resources
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.exe
+C:\Users\aluno\source\repos\Aula06\Aula06\obj\Debug\Aula06.pdb
