@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\bin\Debug\AulaSabado.exe.config
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\bin\Debug\AulaSabado.exe
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\bin\Debug\AulaSabado.pdb
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.Form1.resources
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.Properties.Resources.resources
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.exe
+C:\Users\aluno\source\repos\AulaSabado\AulaSabado\obj\Debug\AulaSabado.pdb
